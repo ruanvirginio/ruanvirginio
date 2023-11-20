@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # OS
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <img src="/bodhi.png">
 
