@@ -1,5 +1,5 @@
 <p align="center">
-### Hello, I'm Ruan! 👋
+Hello, I'm Ruan! 👋
 </p>
 
 I'm an Electrical Engineering. Graduated at Federal University of Paraíba, in Brazil. Currently studying Big Data.
