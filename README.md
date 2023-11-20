@@ -1,7 +1,8 @@
 <p align="center">
-Hello, I'm Ruan! 👋
+Hello, I'm Ruan!
 </p>
 
+<div class="tenor-gif-embed" data-postid="18193394" data-share-method="host" data-aspect-ratio="1.77222" data-width="100%"><a href="https://tenor.com/view/electroboom-circuit-breaker-spark-mehdi-gif-18193394">Electroboom Circuit Breaker GIF</a>from <a href="https://tenor.com/search/electroboom-gifs">Electroboom GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 I'm an Electrical Engineering. Graduated at Federal University of Paraíba, in Brazil. Currently studying Big Data.
 
 <!--
@@ -26,14 +27,20 @@ Love both!
 
 # Two-Laptops Setup
 ![Main Windows/Ubuntu Laptop](/ubuntu.png)  
-
 *Main Windows/Ubuntu Laptop.*
 
+  
 ![Old Laptop with Bodhi Linux](/bodhi.png)  
-
 *Old Laptop with Bodhi Linux.*
 
 # Languages
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
 
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
