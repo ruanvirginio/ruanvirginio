@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 -->
 
 # OS
-
+Love both!
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-# Two-Notebooks Setup
-<img src="/bodhi.png">
-<img src="/ubuntu.png">
+# Two-Laptops Setup
+![Main Windows/Ubuntu Laptop](/ubuntu.png)
+*Main Windows/Ubuntu Laptop.*
+
+![Old Laptop with Bodhi Linux](/bodhi.png)
+*Old Laptop with Bodhi Linux.*
 
 # Languages
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
