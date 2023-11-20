@@ -2,7 +2,6 @@
 Hello, I'm Ruan!
 </h1>
 
-# whoami
 I'm an Electrical Engineering. Graduated at Federal University of Paraíba, in Brazil. Currently studying Big Data. Well. Trying to.  
 
 ![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
