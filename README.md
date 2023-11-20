@@ -2,7 +2,7 @@
 Hello, I'm Ruan!
 </p>
 
-<div class="tenor-gif-embed" data-postid="18193394" data-share-method="host" data-aspect-ratio="1.77222" data-width="100%"><a href="https://tenor.com/view/electroboom-circuit-breaker-spark-mehdi-gif-18193394">Electroboom Circuit Breaker GIF</a>from <a href="https://tenor.com/search/electroboom-gifs">Electroboom GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
 I'm an Electrical Engineering. Graduated at Federal University of Paraíba, in Brazil. Currently studying Big Data.
 
 <!--
