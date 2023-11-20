@@ -17,5 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# OS
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 <img src="/bodhi.png">
+
+# Languages
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+
 
