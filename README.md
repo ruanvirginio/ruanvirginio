@@ -2,7 +2,12 @@
 Hello, I'm Ruan!
 </h1>
 
-I'm an Electrical Engineering, graduated at Federal University of Paraíba, in Brazil. Currently working as process analyst at Energisa and studying Big Data.   
+I'm an Electrical Engineering, graduated at Federal University of Paraíba, in Brazil. Currently working as process analyst at Energisa and pursuing a Master's in Information Technology.
+
+
+
+
+.   
 
 ![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
 
