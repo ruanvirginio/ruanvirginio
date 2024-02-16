@@ -6,9 +6,6 @@ I'm an Electrical Engineering, graduated at Federal University of Paraíba, in B
 
 
 
-
-.   
-
 ![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
 
 
