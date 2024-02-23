@@ -10,7 +10,7 @@ I'm an Electrical Engineering, graduated at Federal University of Paraíba, in B
 
 
 # OS
-Gotta love them all! Except MacOS. I'm poor.
+
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
