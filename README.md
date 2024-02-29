@@ -9,19 +9,6 @@ I'm an Electrical Engineering, graduated at Federal University of Paraíba, in B
 ![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
 
 
-# OS
-
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-# Two-Laptops Setup
-![Main Windows/Ubuntu Laptop](/ubuntu.png)  
-*Main Windows/Ubuntu Laptop.*  
-
-
-![Old Laptop with Bodhi Linux](/bodhi.png)  
-*Old Laptop with Bodhi Linux.*
-
 # Languages
 Learned C/C++ on university, used a lot of MATLAB on my research. Currently working with Python!  
 
