@@ -2,17 +2,13 @@
 Hello, I'm Ruan!
 </h1>
 
-I'm an Electrical Engineering, graduated at Federal University of Paraíba, in Brazil. Currently working as process analyst at Energisa and pursuing a Master's in Information Technology.
-
-
-
-![Electroboom GIF](https://media.tenor.com/7UNJl2Lmyl4AAAAd/electroboom-circuit-breaker.gif)
-
+I'm an Electrical Engineering, graduated at Federal University of Paraíba, in Brazil. Currently pursuing a Master's degree in Information Technology and working as Process Analyst at an electricity distribution company. At work, what I do:
+- Real-time operational BI dashboards;
+- Automation of repetitive processes and KPI collection using Python;
+- Data-driven reporting to support decision-making.
 
 # Languages
-Learned C/C++ on university, used a lot of MATLAB on my research. Currently working with Python!  
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+My main programming language is Python, with an academic background in C/C++ and extensive use of MATLAB in research.
 
 # Some stats
 <div>
